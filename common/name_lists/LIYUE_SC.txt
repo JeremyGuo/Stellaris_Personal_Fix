@@ -1,5 +1,5 @@
 ﻿### Template
-HUM1 = {
+LIYUE = {
 	### SHIPS
 	category = "Humanoid"
 	language = "l_simp_chinese"

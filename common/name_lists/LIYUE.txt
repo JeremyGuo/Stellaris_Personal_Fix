@@ -1,8 +1,7 @@
 ﻿### Template
-LIYUE1 = {
+LIYUE = {
 	### SHIPS
 	category = "Humanoid"
-	language = "l_simp_chinese"
 	ship_names = {
 		generic = {
 			"伟大的库塔马" "坚定的胡" "耐心的卡时那可" "英勇的洛克塔" "忠诚的苏尔纳" "残忍的科博"

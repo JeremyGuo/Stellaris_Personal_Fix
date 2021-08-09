@@ -1,10 +1,10 @@
 ﻿l_simp_chinese:
   origin_fuck_relic_start_NAME:0 "复国孑遗-行星计算器"
   origin_fuck_relic_start_DESC:0 "Hello AI Bye AI"
-  name_list_MENGDE1:0 "蒙德"
-  name_list_MENGDE1_desc:0 "蒙德"
-  name_list_LIYUE1:0 "璃月"
-  name_list_LIYUE1_desc:0 "璃月"
+  name_list_MENGDE:0 "蒙德"
+  name_list_MENGDE_desc:0 "蒙德"
+  name_list_LIYUE:0 "璃月"
+  name_list_LIYUE_desc:0 "璃月"
 
   origin_fuck_relic:0 "复国孑遗?"
   origin_fuck_relic_desc:0 "这一文明曾经叱咤虚空，掌控大片星海。他们最终败落并几乎被摧毁殆尽，但在漫长的穷困潦倒后他们正要于群星间东山再起(带着强劲的行星计算器)。"
