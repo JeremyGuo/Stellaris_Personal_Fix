@@ -1,0 +1,271 @@
+portraits = {
+	genshin_01 = {texturefile = "gfx/models/portraits/genshin01.dds"  }
+	genshin_02 = {texturefile = "gfx/models/portraits/genshin02.dds"  }
+	genshin_03 = {texturefile = "gfx/models/portraits/genshin03.dds"  }
+	genshin_04 = {texturefile = "gfx/models/portraits/genshin04.dds"  }
+	genshin_05 = {texturefile = "gfx/models/portraits/genshin05.dds"  }
+	genshin_06 = {texturefile = "gfx/models/portraits/genshin06.dds"  }
+	genshin_07 = {texturefile = "gfx/models/portraits/genshin07.dds"  }
+	genshin_08 = {texturefile = "gfx/models/portraits/genshin08.dds"  }
+	genshin_09 = {texturefile = "gfx/models/portraits/genshin09.dds"  }
+	genshin_10 = {texturefile = "gfx/models/portraits/genshin10.dds"  }
+	genshin_11 = {texturefile = "gfx/models/portraits/genshin11.dds"  }
+	genshin_12 = {texturefile = "gfx/models/portraits/genshin12.dds"  }
+	genshin_13 = {texturefile = "gfx/models/portraits/genshin13.dds"  }
+	genshin_14 = {texturefile = "gfx/models/portraits/genshin14.dds"  }
+	genshin_15 = {texturefile = "gfx/models/portraits/genshin15.dds"  }
+	genshin_16 = {texturefile = "gfx/models/portraits/genshin16.dds"  }
+	genshin_17 = {texturefile = "gfx/models/portraits/genshin17.dds"  }
+	genshin_18 = {texturefile = "gfx/models/portraits/genshin18.dds"  }
+	genshin_19 = {texturefile = "gfx/models/portraits/genshin19.dds"  }
+	genshin_20 = {texturefile = "gfx/models/portraits/genshin20.dds"  }
+	genshin_21 = {texturefile = "gfx/models/portraits/genshin21.dds"  }
+	genshin_22 = {texturefile = "gfx/models/portraits/genshin22.dds"  }
+	genshin_23 = {texturefile = "gfx/models/portraits/genshin23.dds"  }
+	genshin_24 = {texturefile = "gfx/models/portraits/genshin24.dds"  }
+	genshin_25 = {texturefile = "gfx/models/portraits/genshin25.dds"  }
+	genshin_26 = {texturefile = "gfx/models/portraits/genshin26.dds"  }
+	genshin_27 = {texturefile = "gfx/models/portraits/genshin27.dds"  }
+	genshin_28 = {texturefile = "gfx/models/portraits/genshin28.dds"  }
+	genshin_29 = {texturefile = "gfx/models/portraits/genshin29.dds"  }
+	genshin_30 = {texturefile = "gfx/models/portraits/genshin30.dds"  }
+	genshin_31 = {texturefile = "gfx/models/portraits/genshin31.dds"  }
+	genshin_32 = {texturefile = "gfx/models/portraits/genshin32.dds"  }
+	genshin_33 = {texturefile = "gfx/models/portraits/genshin33.dds"  }
+	genshin_34 = {texturefile = "gfx/models/portraits/genshin34.dds"  }
+	genshin_35 = {texturefile = "gfx/models/portraits/genshin35.dds"  }
+	genshin_36 = {texturefile = "gfx/models/portraits/genshin36.dds"  }
+	genshin_37 = {texturefile = "gfx/models/portraits/genshin37.dds"  }
+	genshin_38 = {texturefile = "gfx/models/portraits/genshin38.dds"  }
+}
+
+portrait_groups = {
+	"Teyvat_people" = {
+		default = genshin_11
+		game_setup = {
+			add = {
+				portraits = {
+					genshin_01
+					genshin_02
+					genshin_03
+					genshin_04
+					genshin_05
+					genshin_06
+					genshin_07
+					genshin_08
+					genshin_09
+					genshin_10
+					genshin_11
+					genshin_12
+					genshin_13
+					genshin_14
+					genshin_15
+					genshin_16
+					genshin_17
+					genshin_18
+					genshin_19
+					genshin_20
+					genshin_21
+					genshin_22
+					genshin_23
+					genshin_24
+					genshin_25
+					genshin_26
+					genshin_27
+					genshin_28
+					genshin_29
+					genshin_30
+					genshin_31
+					genshin_32
+					genshin_33
+					genshin_34
+					genshin_35
+					genshin_36
+					genshin_37
+					genshin_38
+				}
+			}
+		}
+
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					genshin_01
+					genshin_02
+					genshin_03
+					genshin_04
+					genshin_05
+					genshin_06
+					genshin_07
+					genshin_08
+					genshin_09
+					genshin_10
+					genshin_11
+					genshin_12
+					genshin_13
+					genshin_14
+					genshin_15
+					genshin_16
+					genshin_17
+					genshin_18
+					genshin_19
+					genshin_20
+					genshin_21
+					genshin_22
+					genshin_23
+					genshin_24
+					genshin_25
+					genshin_26
+					genshin_27
+					genshin_28
+					genshin_29
+					genshin_30
+					genshin_31
+					genshin_32
+					genshin_33
+					genshin_34
+					genshin_35
+					genshin_36
+					genshin_37
+					genshin_38
+				}
+			}
+		}
+		#pop scope
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					genshin_01
+					genshin_02
+					genshin_03
+					genshin_04
+					genshin_05
+					genshin_06
+					genshin_07
+					genshin_08
+					genshin_09
+					genshin_10
+					genshin_11
+					genshin_12
+					genshin_13
+					genshin_14
+					genshin_15
+					genshin_16
+					genshin_17
+					genshin_18
+					genshin_19
+					genshin_20
+					genshin_21
+					genshin_22
+					genshin_23
+					genshin_24
+					genshin_25
+					genshin_26
+					genshin_27
+					genshin_28
+					genshin_29
+					genshin_30
+					genshin_31
+					genshin_32
+					genshin_33
+					genshin_34
+					genshin_35
+					genshin_36
+					genshin_37
+					genshin_38
+				}
+			}
+		}
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				portraits = {
+					genshin_01
+					genshin_02
+					genshin_03
+					genshin_04
+					genshin_05
+					genshin_06
+					genshin_07
+					genshin_08
+					genshin_09
+					genshin_10
+					genshin_11
+					genshin_12
+					genshin_13
+					genshin_14
+					genshin_15
+					genshin_16
+					genshin_17
+					genshin_18
+					genshin_19
+					genshin_20
+					genshin_21
+					genshin_22
+					genshin_23
+					genshin_24
+					genshin_25
+					genshin_26
+					genshin_27
+					genshin_28
+					genshin_29
+					genshin_30
+					genshin_31
+					genshin_32
+					genshin_33
+					genshin_34
+					genshin_35
+					genshin_36
+					genshin_37
+					genshin_38
+				}
+			}
+		}
+		#leader scope 
+		ruler = {
+			add = {
+				portraits = {
+					genshin_01
+					genshin_02
+					genshin_03
+					genshin_04
+					genshin_05
+					genshin_06
+					genshin_07
+					genshin_08
+					genshin_09
+					genshin_10
+					genshin_11
+					genshin_12
+					genshin_13
+					genshin_14
+					genshin_15
+					genshin_16
+					genshin_17
+					genshin_18
+					genshin_19
+					genshin_20
+					genshin_21
+					genshin_22
+					genshin_23
+					genshin_24
+					genshin_25
+					genshin_26
+					genshin_27
+					genshin_28
+					genshin_29
+					genshin_30
+					genshin_31
+					genshin_32
+					genshin_33
+					genshin_34
+					genshin_35
+					genshin_36
+					genshin_37
+					genshin_38
+				}
+			}
+		}
+	}
+}
