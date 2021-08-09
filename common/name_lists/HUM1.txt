@@ -1,5 +1,5 @@
-### Template
-MENGDE1 = {
+﻿### Template
+HUM1 = {
 	### SHIPS
 	category = "Humanoid"
 	language = "l_simp_chinese"
