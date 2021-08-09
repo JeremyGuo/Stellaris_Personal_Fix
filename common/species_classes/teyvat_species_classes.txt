@@ -10,3 +10,22 @@
 	graphical_culture = mammalian_01
 	move_pop_sound_effect = "moving_pop_confirmation"
 }
+
+"Robotic_Teyvat_People" = {
+	archetype = ROBOTIC_TEYVAT
+	randomized = yes
+	gender = no
+	portraits = {
+		"Teyvat_people"
+	}
+	possible = { authority = { OR = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_USE_MACHINE_INTELLIGENCE } } }
+	
+	robotic = yes
+	use_climate_preference = no
+	portrait_modding = yes
+
+	leader_age_min = 2
+	leader_age_max = 10
+	graphical_culture = mammalian_01
+	move_pop_sound_effect = "robot_pops_move"
+}

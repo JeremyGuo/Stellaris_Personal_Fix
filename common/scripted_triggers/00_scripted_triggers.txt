@@ -2250,6 +2250,7 @@ species_can_be_necrophaged = {
 	NOR = {
 		is_archetype = MACHINE
 		is_archetype = ROBOT
+		is_archetype = ROBOTIC_TEYVAT
 		is_archetype = PRESAPIENT
 		is_same_species = prev.owner_species
 		has_slavery_type = { type = slavery_livestock country = prev.owner }

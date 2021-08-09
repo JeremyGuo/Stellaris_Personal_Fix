@@ -783,7 +783,11 @@ country_event = {
 			name = this
 			namelist = this
 			plural = this
-			class = "ROBOT"
+			switch = {
+				trigger = is_species_class
+				Teyvat_People = { class = Robotic_Teyvat_People }
+				default = { class = ROBOT }
+			}
 			portrait = "default_robot"
 			traits = {
 				trait = "trait_mechanical"
