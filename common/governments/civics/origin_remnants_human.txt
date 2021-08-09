@@ -1,0 +1,20 @@
+origin_fuck_relic = {
+	is_origin = yes
+	icon = "gfx/interface/icons/origins/origins_planetary_computer.dds"
+	picture = GFX_origin_remnants
+	starting_colony = pc_relic  #Changes homeworld class regardless of what is picked for empire
+	max_once_global = yes
+	initializers = { origin_fuck_relic_start }
+	possible = {
+		civics = {
+			NOT = { value = civic_agrarian_idyll }
+		}
+	}
+	description = "origin_tooltip_remnants_effects"
+	flags = { custom_start_screen first_contact_event Story7 }
+	advanced_start = yes
+	habitability_preference = pc_relic
+	random_weight = {
+		base = 0
+	}
+}

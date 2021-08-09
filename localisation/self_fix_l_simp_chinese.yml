@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+  origin_fuck_relic_start_NAME:0 "复国孑遗-行星计算器"
+  origin_fuck_relic_start_DESC:0 "Hello AI Bye AI"
+
+  origin_fuck_relic:0 "复国孑遗2"
+  origin_fuck_relic_desc:0 "这一文明曾经叱咤虚空，掌控大片星海。他们最终败落并几乎被摧毁殆尽，但在漫长的穷困潦倒后他们正要于群星间东山再起(带着强劲的行星计算器)。"
+  origin_fuck_relic_effects:0 "你将在$pc_relic$上开局，除此之外，旁边还会存在你曾经使用过不过已经弃用并可以立即重新使用的$pc_giga_planetary_computer$，准备好打爆AI了吗？"

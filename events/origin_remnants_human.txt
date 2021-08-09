@@ -1,0 +1,17 @@
+namespace = remnants_human
+
+country_event = {
+	id = self_fix_origin_remnants_human.001
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = { has_origin = origin_fuck_relic }
+
+	immediate = {
+		if = {
+			limit = { is_ai = yes }
+			giga_reset_ai_start = yes
+		}
+        else = {
+        }
+    }
+}
