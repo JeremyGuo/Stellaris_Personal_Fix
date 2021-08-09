@@ -6,6 +6,6 @@
   name_list_LIYUE:0 "Liyue"
   name_list_LIYUE_desc:0 "Liyue"
 
-  origin_fuck_relic:0 "Relic with Planetary Computer"
-  origin_fuck_relic_desc:0 "You are the remnant of a long forgotten civilization, living in the echoing expanse of a $pc_birch$ at the galactic core built by your ancestors."
-  origin_fuck_relic_effects:0 "You will start on a $pc_birch$ isolated at the Galactic Core.\nBecause this requires spawning the core after galaxy generation you will actually move there just before game start, so will maintain the knowledge of your original home cluster.\n\nThe $pc_birch$ was designed for a much larger population, so you will need to do some job management at the start to survive.\n\n§RAI cannot use this origin. Any generated predefined custom AI empires with this origin will be generate with $origin_default$ instead.§!"
+  origin_remnants:0 "Relic with Planetary Computer"
+  origin_remnants_desc:0 "You are the remnant of a long forgotten civilization, living in the echoing expanse of a $pc_birch$ at the galactic core built by your ancestors."
+  origin_remnants_effects:0 "You will start on a $pc_birch$ isolated at the Galactic Core.\nBecause this requires spawning the core after galaxy generation you will actually move there just before game start, so will maintain the knowledge of your original home cluster.\n\nThe $pc_birch$ was designed for a much larger population, so you will need to do some job management at the start to survive.\n\n§RAI cannot use this origin. Any generated predefined custom AI empires with this origin will be generate with $origin_default$ instead.§!"
