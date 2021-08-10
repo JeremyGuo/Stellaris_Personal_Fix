@@ -1,7 +1,7 @@
 ### Planetary Computing Complex System
 origin_fuck_relic_start = {
 	class = "sc_g"
-	usage = custom_empire
+	usage = origin
 
     flags = { empire_home_system }
 
@@ -76,6 +76,13 @@ origin_fuck_relic_start = {
 		size = 25
 		has_ring = no
 		modifiers = none
+
+		init_effect = {
+			add_modifier = {
+				giga_planetary_computer
+				days = -1
+			}
+		}
 	}
 
 	### planet 5: frozen planet
