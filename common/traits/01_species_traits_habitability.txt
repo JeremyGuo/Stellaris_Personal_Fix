@@ -305,7 +305,6 @@ trait_pc_relic_preference = {
 	sorting_priority = 30
 	modifier = {
 		pc_relic_habitability = @primary
-		pc_giga_planetary_computer_habitability = 1.0
 	}
 	ai_weight = {
 		weight = 0
