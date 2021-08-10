@@ -1,4 +1,5 @@
 tech_dreadnought = {
+    icon = "sf_tech_dreadnought"
 	cost = @tier5cost1
 	area = engineering
 	tier = 5
@@ -74,7 +75,8 @@ tech_dreadnought = {
 	}
 }
 
-tech_dreadnought_upgrade = {
+tech_dreadnought_hull = {
+    icon = "sf_tech_dreadnought_hull"
 	cost = @tier5cost2
 	area = engineering
 	tier = 5
@@ -114,7 +116,7 @@ tech_dreadnought_upgrade = {
 			has_federation = yes
 			federation = {
 				has_federation_perk = rare_tech_boost
-				any_member = { has_technology = tech_dreadnought_upgrade }
+				any_member = { has_technology = tech_dreadnought_hull }
 			}
 		}
 		modifier = {
@@ -143,6 +145,7 @@ tech_dreadnought_upgrade = {
 }
 
 tech_dreadnought_build_speed = {
+    icon = "sf_tech_dreadnought_build_speed"
 	cost = @tier5cost2
 	area = engineering
 	tier = 5
