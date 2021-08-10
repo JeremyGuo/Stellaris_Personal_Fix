@@ -1,0 +1,18 @@
+# Planetary Computer Adaption
+tech_planetary_computer_adaption = {
+	icon = "sf_tech_planetary_computer_adaption"
+	cost = 0
+	area = society
+	start_tech = yes
+	tier = 0
+	category = { new_worlds }
+	is_rare = yes
+
+	modifier = {
+		pc_giga_planetary_computer_habitability = 1.0
+	}
+
+	potential = {
+		has_origin = origin_remnants
+	}
+}
