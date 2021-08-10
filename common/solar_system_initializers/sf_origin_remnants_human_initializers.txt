@@ -68,6 +68,9 @@ origin_fuck_relic_start = {
 	## planet 4: planetary computer capital
 	planet = {
 		class = pc_giga_planetary_computer
+
+		flags = { giga_planetary_computer }
+
 		orbit_distance = 30
 		orbit_angle = { min = 60 max = 180}
 		size = 25
@@ -83,4 +86,16 @@ origin_fuck_relic_start = {
 		size = { min = 17 max = 20 }
 		has_ring = yes
 	}
+
+	neighbor_system = {
+		trigger = { num_guaranteed_colonies >= 2 }
+		hyperlane_jumps = { min = 1 max = @jumps }
+		initializer = "neighbor_t1"
+	}
+	neighbor_system = {
+		trigger = { num_guaranteed_colonies >= 1 }
+		hyperlane_jumps = { min = 1 max = @jumps }
+		initializer = "neighbor_t1_first_colony"
+	}
+
 }
