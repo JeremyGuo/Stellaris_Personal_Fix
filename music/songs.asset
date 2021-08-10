@@ -1,0 +1,700 @@
+
+music = {
+    name = "人声哼唱"
+    file = "人声哼唱.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]竖琴_夜晚"
+    file = "[再临·璃月]竖琴_夜晚.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "新旋律2"
+    file = "新旋律2.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "新旋律3"
+    file = "新旋律3.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "笛子_变奏"
+    file = "笛子_变奏.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_竖琴_短版"
+    file = "[再临·璃月]登录_竖琴_短版.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]古筝_不安"
+    file = "[再临·璃月]古筝_不安.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "微伤感_美丽_人声"
+    file = "微伤感_美丽_人声.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "悲伤"
+    file = "悲伤.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "琴_轻快"
+    file = "琴_轻快.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]旋律二_钢琴"
+    file = "[再临·璃月]旋律二_钢琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]婉转"
+    file = "[再临·璃月]婉转.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_竖琴_双簧"
+    file = "[再临·璃月]登录_竖琴_双簧.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_白天_单簧管"
+    file = "[再临·璃月]登录_白天_单簧管.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]旋律一_笛子"
+    file = "[再临·璃月]旋律一_笛子.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]轻快"
+    file = "[再临·璃月]轻快.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "鼓_琴"
+    file = "鼓_琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "新旋律"
+    file = "新旋律.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "急速转激昂"
+    file = "急速转激昂.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "耐人寻味"
+    file = "耐人寻味.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "璃月"
+    file = "璃月.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "云山高处"
+    file = "云山高处.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "庄严–人声"
+    file = "庄严–人声.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]旋律一_欢快"
+    file = "[再临·璃月]旋律一_欢快.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "深幽"
+    file = "深幽.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "小奏"
+    file = "小奏.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]欢快_琵琶"
+    file = "[再临·璃月]欢快_琵琶.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]望舒客栈_夜晚"
+    file = "[再临·璃月]望舒客栈_夜晚.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]旋律一_钢琴"
+    file = "[再临·璃月]旋律一_钢琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]空幽"
+    file = "[再临·璃月]空幽.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "璃月–古筝"
+    file = "璃月–古筝.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "故事_伤感"
+    file = "故事_伤感.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "安伯_日常"
+    file = "安伯_日常.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "轻快_轻奏"
+    file = "轻快_轻奏.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]二胡_优雅"
+    file = "[再临·璃月]二胡_优雅.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_官网版"
+    file = "[再临·璃月]登录_官网版.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_白天_竖琴"
+    file = "[再临·璃月]登录_白天_竖琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "高处_笛子"
+    file = "高处_笛子.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]旋律一_古筝_竖琴"
+    file = "[再临·璃月]旋律一_古筝_竖琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]白天_欢快"
+    file = "[再临·璃月]白天_欢快.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "琴_轻弹"
+    file = "琴_轻弹.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]与安柏观赏璃月"
+    file = "[再临·璃月]与安柏观赏璃月.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]忧伤二_竖琴"
+    file = "[再临·璃月]忧伤二_竖琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]舒缓_琵琶"
+    file = "[再临·璃月]舒缓_琵琶.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "旋律_叙事"
+    file = "旋律_叙事.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "美丽_华丽"
+    file = "美丽_华丽.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_早晨_钢琴二"
+    file = "[再临·璃月]登录_早晨_钢琴二.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "战况，低转高"
+    file = "战况，低转高.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "美丽乡村"
+    file = "美丽乡村.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "璃月_高昂–琴"
+    file = "璃月_高昂–琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "美丽的_轻柔"
+    file = "美丽的_轻柔.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_白天_提琴"
+    file = "[再临·璃月]登录_白天_提琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]旋律二_古筝"
+    file = "[再临·璃月]旋律二_古筝.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "远古的，神秘"
+    file = "远古的，神秘.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]天衡山"
+    file = "[再临·璃月]天衡山.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]旋律一_长笛"
+    file = "[再临·璃月]旋律一_长笛.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "旋律_独奏"
+    file = "旋律_独奏.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "_提琴"
+    file = "_提琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]高山"
+    file = "[再临·璃月]高山.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]欢乐转恢弘_琵琶_鼓"
+    file = "[再临·璃月]欢乐转恢弘_琵琶_鼓.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "幽美_小小的故事"
+    file = "幽美_小小的故事.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "低沉_笛子_人声"
+    file = "低沉_笛子_人声.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]竖琴_安静"
+    file = "[再临·璃月]竖琴_安静.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]忧伤_二胡"
+    file = "[再临·璃月]忧伤_二胡.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "璃月_繁华"
+    file = "璃月_繁华.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "低奏_起伏"
+    file = "低奏_起伏.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_黄昏_笛子"
+    file = "[再临·璃月]登录_黄昏_笛子.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_短版"
+    file = "[再临·璃月]登录_短版.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_白天_竖琴二"
+    file = "[再临·璃月]登录_白天_竖琴二.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_早晨_钢琴"
+    file = "[再临·璃月]登录_早晨_钢琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "急起_断续"
+    file = "急起_断续.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "静_低沉"
+    file = "静_低沉.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "新征程_危机"
+    file = "新征程_危机.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "钢琴–提琴"
+    file = "钢琴–提琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "提琴_沉重"
+    file = "提琴_沉重.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_夜晚_人声"
+    file = "[再临·璃月]登录_夜晚_人声.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "启程"
+    file = "启程.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]空灵"
+    file = "[再临·璃月]空灵.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "沉"
+    file = "沉.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]空旷"
+    file = "[再临·璃月]空旷.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_黄昏_提琴"
+    file = "[再临·璃月]登录_黄昏_提琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "远古_深沉"
+    file = "远古_深沉.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_白天_恢弘"
+    file = "[再临·璃月]登录_白天_恢弘.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "宏观_神秘_危险"
+    file = "宏观_神秘_危险.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "提琴_钢琴奏"
+    file = "提琴_钢琴奏.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "深渊"
+    file = "深渊.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]初见璃月（宣传片主题曲）"
+    file = "[再临·璃月]初见璃月（宣传片主题曲）.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "沉浸"
+    file = "沉浸.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "幽默_趣味"
+    file = "幽默_趣味.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]初见璃月_钢琴版"
+    file = "[再临·璃月]初见璃月_钢琴版.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]登录_黄昏_人声"
+    file = "[再临·璃月]登录_黄昏_人声.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "入云_深"
+    file = "入云_深.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]和声_琵琶_舒缓"
+    file = "[再临·璃月]和声_琵琶_舒缓.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "诡异–神秘–危险"
+    file = "诡异–神秘–危险.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "璃月–激昂_琴"
+    file = "璃月–激昂_琴.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "宏观_大型战斗"
+    file = "宏观_大型战斗.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "琴_笛子_纪事"
+    file = "琴_笛子_纪事.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "[再临·璃月]璃月地区"
+    file = "[再临·璃月]璃月地区.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "久远遗址_节奏感"
+    file = "久远遗址_节奏感.ogg"
+    volume = 0.80
+}
+
+
+music = {
+    name = "宏观_节奏感"
+    file = "宏观_节奏感.ogg"
+    volume = 0.80
+}
+

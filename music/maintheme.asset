@@ -1,0 +1,5 @@
+music = {
+	name = "maintheme"
+	file = "[再临·璃月]登录_官网版.ogg"
+	volume = 0.82
+}
