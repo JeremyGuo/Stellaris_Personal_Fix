@@ -80,7 +80,7 @@ origin_fuck_relic_start = {
 
 		init_effect = {
 			add_modifier = {
-				giga_planetary_computer
+				modifier = giga_planetary_computer
 				days = -1
 			}
 		}
