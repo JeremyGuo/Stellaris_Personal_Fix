@@ -1,6 +1,8 @@
 ﻿l_english:
   tech_planetary_computer_adaption:0 "Planetary Computer Adaption"
   tech_planetary_computer_adaption_desc:0 "Everyone likes Planetary Computer, especially for Teyvat People"
+  tech_dreadnought:0 "Dreadnought"
+  tech_dreadnought_desc:0 "Dreadnoughts will lead us to win."
   TECH_UNLOCK_TITAN_CONSTRUCTION_TITLE:0 "§HUnlocks Ship Type:§! Dreadnought"
   TECH_UNLOCK_TITAN_CONSTRUCTION_DESC:0 "§HDreadnought§!\nThese massive warships are the core of the starwar. They carries immense power."
   tech_dreadnought_hull:0 "Advanced Dreadnought Hulls"
