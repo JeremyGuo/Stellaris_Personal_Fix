@@ -1,3 +1,5 @@
+@jumps = 3
+
 ### Planetary Computing Complex System
 origin_fuck_relic_start = {
 	class = "sc_g"
@@ -68,7 +70,6 @@ origin_fuck_relic_start = {
 	## planet 4: planetary computer capital
 	planet = {
 		class = pc_giga_planetary_computer
-
 		flags = { giga_planetary_computer }
 
 		orbit_distance = 30
