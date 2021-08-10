@@ -1,4 +1,5 @@
 tech_dreadnought = {
+    icon = "sf_tech_dreadnought"
 	cost = @tier5cost1
 	area = engineering
 	tier = 5
@@ -45,6 +46,10 @@ tech_dreadnought = {
 			factor = 4
 			years_passed > 100
 		}
+        modifier = {
+			factor = @ap_technological_ascendancy_rare_tech
+			has_ascension_perk = ap_technological_ascendancy
+		}
 		modifier = {
 			factor = 1.25
 			has_tradition = tr_supremacy_adopt
@@ -70,17 +75,18 @@ tech_dreadnought = {
 	}
 }
 
-tech_dreadnought_upgrade_1 = {
+tech_dreadnought_hull = {
+    icon = "sf_tech_dreadnought_hull"
 	cost = @tier5cost2
 	area = engineering
 	tier = 5
 	is_rare = yes
 	category = { voidcraft }
 	prerequisites = { "tech_dreadnought" }
-	weight = @tier5weight2
+	weight = @tier5weight3
 
 	modifier = {
-		shipsize_titan_hull_add = 2000
+		shipsize_Dreadnought_hull_add = 10000
 	}
 
 	weight_modifier = {
@@ -110,7 +116,7 @@ tech_dreadnought_upgrade_1 = {
 			has_federation = yes
 			federation = {
 				has_federation_perk = rare_tech_boost
-				any_member = { has_technology = tech_titan_hull_1 }
+				any_member = { has_technology = tech_dreadnought_hull }
 			}
 		}
 		modifier = {
@@ -138,17 +144,19 @@ tech_dreadnought_upgrade_1 = {
 	}
 }
 
-tech_dreadnought_upgrade_2 = {
-	cost = @tier5cost3
+tech_dreadnought_build_speed = {
+    icon = "sf_tech_dreadnought_build_speed"
+	cost = @tier5cost2
 	area = engineering
 	tier = 5
 	is_rare = yes
 	category = { voidcraft }
-	prerequisites = { "tech_titan_hull_1" }
+	prerequisites = { "tech_dreadnought" }
 	weight = @tier5weight3
 
 	modifier = {
-		shipsize_titan_hull_add = 2000
+		shipsize_Dreadnought_build_speed_mult = 0.25
+		ship_Dreadnought_cost_mult = -0.05
 	}
 
 	weight_modifier = {
@@ -178,7 +186,7 @@ tech_dreadnought_upgrade_2 = {
 			has_federation = yes
 			federation = {
 				has_federation_perk = rare_tech_boost
-				any_member = { has_technology = tech_titan_hull_2 }
+				any_member = { has_technology = tech_dreadnought_build_speed }
 			}
 		}
 		modifier = {
