@@ -1,25 +1,25 @@
 "Teyvat_People" = {
-	archetype = TEYVAT
+	archetype = BIOLOGICAL
 	randomized = yes
 	gender = no
 	portraits = {
 		"Teyvat_people"
 	}
 	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
-
+	
 	graphical_culture = mammalian_01
 	move_pop_sound_effect = "moving_pop_confirmation"
 }
 
 "Robotic_Teyvat_People" = {
-	archetype = ROBOTIC_TEYVAT
+	archetype = ROBOT
 	randomized = yes
 	gender = no
 	portraits = {
 		"Teyvat_people"
 	}
-	possible = { authority = { OR = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_USE_MACHINE_INTELLIGENCE } } }
-	
+	playable = { has_global_flag = game_started }
+
 	robotic = yes
 	use_climate_preference = no
 	portrait_modding = yes
