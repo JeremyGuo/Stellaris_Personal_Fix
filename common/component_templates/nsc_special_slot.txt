@@ -1,0 +1,125 @@
+#############
+### POWER ###
+#############
+@power0 = 0
+@power1 = -25
+@power2 = -50
+@power3 = -75
+@power4 = -100
+
+############
+### COST ###
+############
+@cost0 = 2.5
+@cost1 = 5
+@cost2 = 7.5
+@cost3 = 10
+
+###############################
+### SPECIAL SLOT COMPONENTS ###
+###############################
+utility_component_template = {
+	key = "SPECIAL_SLOT_EMPTY"
+	size = medium
+	icon = "GFX_ship_part_empty_ftl_drive"
+	icon_frame = 1
+	power = @power0
+
+	class_restriction = { shipclass_military shipclass_constructor }
+	component_set = "special_ship_slot"
+	
+	ai_weight = { weight = 1 }
+}
+
+utility_component_template = {
+	key = "SPECIAL_SLOT_READY_ROOM"
+	size = medium
+	icon = "GFX_special_slot_ready_room"
+	icon_frame = 1
+	power = @power3
+	
+	resources = {
+		category = ship_components
+		cost = { alloys = @cost2 }
+	}
+	
+	modifier = { ship_evasion_mult = 0.10 }
+	
+	class_restriction = { shipclass_military shipclass_constructor }
+	component_set = "special_ship_slot"
+	
+	ai_weight = { weight = 1 }	
+}
+
+utility_component_template = {
+	key = "SPECIAL_SLOT_CREW_LOUNGE"
+	size = medium
+	icon = "GFX_special_slot_crew_lounge"
+	icon_frame = 1
+	power = @power2
+	
+	resources = {
+		category = ship_components
+		cost = { alloys = @cost1 }
+	}
+	
+	ship_modifier = { ship_accuracy_mult = 0.10 }
+	
+	class_restriction = { shipclass_military shipclass_constructor }
+	component_set = "special_ship_slot"
+	
+	ai_weight = { weight = 1 }	
+}
+
+utility_component_template = {
+	key = "SPECIAL_SLOT_DEFLECTOR_ARRAY"
+	size = medium
+	icon = "GFX_special_slot_deflector_array"
+	icon_frame = 1
+	power = @power3
+	
+	resources = {
+		category = ship_components
+		cost = { alloys = @cost2 }
+	}
+	
+	modifier = { ship_shield_regen_add_perc = 0.5 }
+	
+	class_restriction = { shipclass_military shipclass_constructor }
+	component_set = "special_ship_slot"
+	
+	ai_weight = { weight = 1 }	
+}
+
+utility_component_template = {
+	key = "SPECIAL_SLOT_KITCHEN_SINK"
+	size = medium
+	icon = "GFX_special_slot_kitchen_sink"
+	icon_frame = 1
+	power = @power1
+	
+	resources = {
+		category = ship_components
+		cost = { alloys = @cost0 }
+	}
+	
+	ship_modifier = { ship_piracy_suppression_add = 3 }
+	class_restriction = { shipclass_military shipclass_constructor }
+	component_set = "special_ship_slot"
+	
+	ai_weight = { weight = 1 }
+}
+
+utility_component_template = {
+	key = "SPECIAL_NO_SEC_REACTOR"
+	size = medium
+	icon = "GFX_ship_part_empty_ftl_drive"
+	icon_frame = 1
+	power = @power0
+
+	class_restriction = { shipclass_military_station }
+	size_restriction = { military_station_large military_station_medium }
+	component_set = "nsc_sec_power_core"
+	
+	ai_weight = { weight = 1 }
+}
