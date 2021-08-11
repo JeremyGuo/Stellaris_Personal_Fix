@@ -790,6 +790,12 @@ country_event = {
 					trait = "trait_mechanical"
 				}
 				extra_trait_points = 3
+
+				rename_species = {
+					prompt_country = root #If targeted country is a player they will get a popup asking for a name/plural/adjective combo. Otherwise the species will get a random name from the specified name_list
+					name_list = ascension_list
+				}
+
 				effect = { save_event_target_as = new_robotic_species }
 			}
 		}
@@ -825,6 +831,11 @@ country_event = {
 						}
 					}
 
+					rename_species = {
+						prompt_country = root #If targeted country is a player they will get a popup asking for a name/plural/adjective combo. Otherwise the species will get a random name from the specified name_list
+						name_list = ascension_list
+					}
+					
 					save_event_target_as = new_robotic_species
 				}
 			}
