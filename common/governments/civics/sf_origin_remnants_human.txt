@@ -18,7 +18,6 @@ origin_remnants = {
 			NOT = { value = civic_agrarian_idyll }
 		}
 	}
-	preferred_planet_class_neighbor = yes
 	description = "origin_tooltip_remnants_effects"
 	flags = { custom_start_screen first_contact_event Story7}
 	traits = {
